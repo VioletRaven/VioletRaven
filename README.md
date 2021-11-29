@@ -8,7 +8,7 @@ I am now back from the US after working as a PhD Teaching Assistant at
 <img src="https://user-images.githubusercontent.com/34713088/130789828-6b4d080a-53f6-4786-b8ec-3319f6483917.png" width="150" height="50"> 
 
 
-I am passionate about machine learning and deep learning algorithms, specifically those tackling computer vision such as: CNNs and RNNs.
+I am passionate about machine learning and deep learning algorithms, specifically those tackling computer vision and NLP.
 
 
 
