@@ -13,6 +13,7 @@ I am passionate about machine learning and deep learning algorithms, specificall
 [![Violet Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetraven&show_icons=true&theme=dracula)
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=violetraven&layout=compact)](https://github.com/violetraven/github-readme-stats)
 
 
 
