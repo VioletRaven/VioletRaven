@@ -10,7 +10,7 @@ I am now back from the US after working as a PhD Teaching Assistant at
 
 I am passionate about machine learning and deep learning algorithms, specifically those tackling computer vision and NLP.
 
-[![Violet Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetraven)](https://github.com/violetraven/github-readme-stats)
+[![Violet Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetraven)](https://github.com/violetraven/github-readme-stats&count_private=true)
 
 
 
