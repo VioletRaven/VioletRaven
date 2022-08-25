@@ -15,5 +15,5 @@ I am passionate about machine learning and deep learning algorithms, specificall
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=violetraven&layout=compact)](https://github.com/violetraven/github-readme-stats)
 
-
+Follow me at [Kaggle](https://www.kaggle.com/andreaserrano)!
 
