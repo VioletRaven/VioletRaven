@@ -60,6 +60,5 @@ Nowadays, I bridge the gap between rigorous data science and creative expression
 
 ### 📚 Latest Blog Posts
 *Stay tuned! Content coming soon...*
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=violetraven&theme=onedark&column=7" alt="trophy" />
-</p>
+### 🗓️ Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=violetraven&theme=github-dark-orange)
